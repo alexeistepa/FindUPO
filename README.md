@@ -1,4 +1,4 @@
 # FindUPO
 
-A python package that uses machine learning clustering algorithms to locate unstable periodic orbits of chaotic dynamical systems. 
+A python package for locating unstable periodic orbits of chaotic dynamical systems using machine learning clustering algorithms and ergodicity properties of chaotic systems. 
 
