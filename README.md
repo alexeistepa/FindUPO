@@ -4,6 +4,5 @@ A python package for locating unstable periodic orbits of chaotic dynamical syst
 
 The idea behind the code and how to use it is described in Jupyter notebook guide.
 
-Periodic orbits of the standard map:
 
 <img src="https://github.com/alexeistepa/FindUPO/blob/main/front.png?raw=true" width="400" height="400">
