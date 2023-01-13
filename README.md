@@ -4,4 +4,4 @@ A python package for locating unstable periodic orbits of chaotic dynamical syst
 
 The idea behind the code and how to use it is descibed in Jupyter notebook guide. 
 
-![alt text](https://github.com/alexeistepa/FindUPO/blob/main/front.png?raw=true|width=40)
+![alt text](https://github.com/alexeistepa/FindUPO/blob/main/front.png?raw=true  width="100" height="100")
